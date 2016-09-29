@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "~2.0",
+        "euskadi31/redis-service-provider": "~2.0"
+    }
+}
