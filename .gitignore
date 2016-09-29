@@ -1,4 +1,7 @@
 /vendor
+/var/
+!/var/Cache/index.html
+!/var/Logs/test.log
 /.settings/
 .buildpath
 .project
