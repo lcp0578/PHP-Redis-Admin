@@ -6,3 +6,5 @@
 composer.lock
 
 # not excludes file
+!/var/Cache/index.html
+!/var/Logs/index.html
